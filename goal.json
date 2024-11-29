@@ -3,8 +3,8 @@
   "apk_url": "https://www.naver.com",
   "ios_min_ver": "1.0.0",
   "ios_url": "https://www.naver.com",
-  "faq_questions_en": ["목표를 어떻게 적는 게 좋나요?", "목표 등급은 어떻게 구분하나요?", "목표가 너무 멀게 느껴져요", "목표는 현실적으로 생각하는 게 좋을까요?"],
-  "faq_questions_ko": ["How should I write my goals?", "How do I classify goal grades?", "My goal feels too far away", "Should I think about goals realistically?"],
+  "faq_questions_en": ["How should I write my goals?", "How do I classify goal grades?", "My goal feels too far away", "Should I think about goals realistically?"],
+  "faq_questions_ko": ["목표를 어떻게 적는 게 좋나요?", "목표 등급은 어떻게 구분하나요?", "목표가 너무 멀게 느껴져요", "목표는 현실적으로 생각하는 게 좋을까요?"],
   "faq_answers_en": [
     "It's good to write goals as specifically and quantifiably as possible, and in a positive way. This helps you clearly know when you've achieved them and visualize them better. (ex. Getting rich → Making $5,000 monthly from career coaching service, Losing weight → Reaching 48kg)",
     "Grade A is for the most important and urgent goals, Grade B is for important goals that need more thought before fully committing to, and Grade C is for goals that aren't yet at A or B level.",
