@@ -1,8 +1,8 @@
 {
   "apk_min_ver": "1.0.0",
-  "apk_url": "https://play.google.com/store/apps/details?id=com.cuckoo.rpgonline&pcampaignid=merch_published_cluster_promotion_battlestar_top_picks",
+  "apk_url": "https://play.google.com/store/apps/details?id=com.jwi.successmate",
   "ios_min_ver": "1.0.0",
-  "ios_url": "https://www.naver.com",
+  "ios_url": "https://appstoreconnect.apple.com/apps/6738992695/distribution/ios/version/inflight",
   "faq_questions_en": ["How should I write my goals?", "How do I classify goal grades?", "My goal feels too far away", "Should I think about goals realistically?"],
   "faq_questions_ko": ["목표를 어떻게 적는 게 좋나요?", "목표 등급은 어떻게 구분하나요?", "목표가 너무 멀게 느껴져요", "목표는 현실적으로 생각하는 게 좋을까요?"],
   "faq_answers_en": [
@@ -17,5 +17,5 @@
     "정한 목표가 너무 멀게 느껴진다면 목표를 쪼개보세요. 만약 내년까지 정한 목표가 \"코칭 서비스로 월 1억 벌기\"라면, 6개월 내에는 어느 정도를 해야 되는지, 1개월 안에는 어느 정도를 해야 되는지 적어보세요. 그리고 앞에 놓인 목표에만 집중해보세요.",
     "너무 현실적으로 생각할 필요 없어요. 우리는 뭔가 하고싶은 걸 얘기할 때, 어느샌가 \"이걸 어떻게 하면 할 수 있지?\" 라는 걸 먼저 생각해요. 당장에 떠오른 방법이 부족하다보니 금방 포기하기도 하고요. 방법은 나중에 생각하고 일단 하고 싶은 걸 먼저 생각해보세요. 더 알고 싶으신 분들은 \"결국 해내는 사람들의 원칙\" 책을 읽어보시는 걸 추천드립니다."
   ],
-  "show_no_ad": "N"
+  "show_no_ad": "Y"
 }
