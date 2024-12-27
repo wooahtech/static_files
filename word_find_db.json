@@ -3,21 +3,81 @@
     "economy": {
       "name": "경제",
       "img_url_list": [
-        "https://github.com/wooahtech/static_files/blob/main/economy/0.png?raw=true",
-        "https://github.com/wooahtech/static_files/blob/main/economy/1.png?raw=true",
-        "https://github.com/wooahtech/static_files/blob/main/economy/2.png?raw=true",
-        "https://github.com/wooahtech/static_files/blob/main/economy/3.png?raw=true",
-        "https://github.com/wooahtech/static_files/blob/main/economy/4.png?raw=true",
-        "https://github.com/wooahtech/static_files/blob/main/economy/5.png?raw=true",
-        "https://github.com/wooahtech/static_files/blob/main/economy/6.png?raw=true",
-        "https://github.com/wooahtech/static_files/blob/main/economy/7.png?raw=true",
-        "https://github.com/wooahtech/static_files/blob/main/economy/8.png?raw=true",
-        "https://github.com/wooahtech/static_files/blob/main/economy/9.png?raw=true",
-        "https://github.com/wooahtech/static_files/blob/main/economy/10.png?raw=true",
-        "https://github.com/wooahtech/static_files/blob/main/economy/11.png?raw=true",
-        "https://github.com/wooahtech/static_files/blob/main/economy/12.png?raw=true",
-        "https://github.com/wooahtech/static_files/blob/main/economy/13.png?raw=true",
-        "https://github.com/wooahtech/static_files/blob/main/economy/14.png?raw=true"
+        {
+          "name": "인플레이션",
+          "description": "물가가 지속적으로 상승해서 돈의 가치가 하락하는 현상을 뜻하는 말입니다 (ex. 초코파이 1박스 4900원 → 9900원, 연 2% 내외의 인상은 정상). 경제의 과열로 발생하거나 통화 공급이 많아질 때 나타납니다. 인플레이션이 오면, 미래 돈의 가치가 떨어지기 때문에 금리가 올라가는 경향이 있습니다.",
+          "url": "https://github.com/wooahtech/static_files/blob/main/economy/0.png?raw=true"
+        },
+        {
+          "name": "구매력평가",
+          "description": "각국 통화의 구매력을 비교해서 환율을 산정하는 방법입니다. 국가 간 경제력을 비교할 때 유용한 지표입니다. 쉽게 얘기하면 빅맥 지수같은 건데 상품 하나가 아니라 좀 더 포괄적으로 보는 거라고 보면 됩니다.",
+          "url": "https://github.com/wooahtech/static_files/blob/main/economy/1.png?raw=true"
+        },
+        {
+          "name": "경제성장률",
+          "description": "한 나라의 경제가 일정 기간 동안 얼마나 성장했는지를 나타내는 지표입니다. 일반적으로 GDP 성장률로 측정됩니다.",
+          "url": "https://github.com/wooahtech/static_files/blob/main/economy/2.png?raw=true",
+        },
+        {
+          "name": "명목소득",
+          "description": "물가 수준을 고려하지 않고 단순히 표시된 소득 금액입니다. 실질소득과 비교하여 경제 상태를 분석하는 데 사용됩니다.",
+          "url": "https://github.com/wooahtech/static_files/blob/main/economy/3.png?raw=true",
+        },
+        {
+          "name": "파생상품",
+          "description": "주식, 채권, 통화 등 기본 자산의 가치에 따라 가격이 결정되는 금융 상품입니다. (ex. 옵션, 선물)",
+          "url": "https://github.com/wooahtech/static_files/blob/main/economy/4.png?raw=true",
+        },
+        {
+          "name": "공매도",
+          "description": "주식 가격이 하락할 것을 예상하고 주식을 빌려 매도한 후 낮은 가격에 다시 사들여 차익을 얻는 투자 방식입니다.",
+          "url": "https://github.com/wooahtech/static_files/blob/main/economy/5.png?raw=true",
+        },
+        {
+          "name": "신용평가",
+          "description": "개인이나 기업의 채무 상환 능력을 평가하는 등급입니다. 대출 이자율 결정과 자금 조달에 큰 영향을 미칩니다.",
+          "url": "https://github.com/wooahtech/static_files/blob/main/economy/6.png?raw=true",
+        },
+        {
+          "name": "부채비율",
+          "description": "기업의 총 자산 대비 부채 비율을 나타내는 지표로, 기업의 재무 건전성을 평가합니다. 기업의 상환 능력과 재무 리스크를 분석하는 중요한 척도입니다.",
+          "url": "https://github.com/wooahtech/static_files/blob/main/economy/7.png?raw=true",
+        },
+        {
+          "name": "영업이익",
+          "description": "기업의 매출에서 영업과 직접 관련된 비용(매출원가와 판관비)을 제외하고 남은 이익.",
+          "url": "https://github.com/wooahtech/static_files/blob/main/economy/8.png?raw=true",
+        },
+        {
+          "name": "발행주식수",
+          "description": "회사가 발행한 전체 주식 수",
+          "url": "https://github.com/wooahtech/static_files/blob/main/economy/9.png?raw=true",
+        },
+        {
+          "name": "스태그플레이션",
+          "description": "경제 침체와 인플레이션이 동시에 발생하는 현상",
+          "url": "https://github.com/wooahtech/static_files/blob/main/economy/10.png?raw=true",
+        },
+        {
+          "name": "디커플링",
+          "description": "특정 국가나 지역의 경제가 글로벌 경제의 흐름에서 독립적으로 움직이는 현상",
+          "url": "https://github.com/wooahtech/static_files/blob/main/economy/11.png?raw=true",
+        },
+        {
+          "name": "기준금리",
+          "description": "중앙은행이 금융기관에 대출할 때 적용하는 기본 금리",
+          "url": "https://github.com/wooahtech/static_files/blob/main/economy/12.png?raw=true",
+        },
+        {
+          "name": "양적완화",
+          "description": "중앙은행이 통화 공급을 늘리기 위해 국채나 금융 자산을 매입하는 정책. 경기 부양 목적으로 사용한다.",
+          "url": "https://github.com/wooahtech/static_files/blob/main/economy/13.png?raw=true",
+        },
+        {
+          "name": "금리스프레드",
+          "description": "장기 금리와 단기 금리의 차이. 경제 전망과 금융 시장의 위험을 분석하는 데 사용한다",
+          "url": "https://github.com/wooahtech/static_files/blob/main/economy/14.png?raw=true"
+        }
       ]
     }
   },
