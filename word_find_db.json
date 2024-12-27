@@ -1,0 +1,24 @@
+{
+  "data": {
+    "economy": {
+      "name": "경제",
+      "img_url_list": [
+        "https://github.com/wooahtech/static_files/blob/main/economy/0.png?raw=true",
+        "https://github.com/wooahtech/static_files/blob/main/economy/1.png?raw=true",
+        "https://github.com/wooahtech/static_files/blob/main/economy/2.png?raw=true",
+        "https://github.com/wooahtech/static_files/blob/main/economy/3.png?raw=true",
+        "https://github.com/wooahtech/static_files/blob/main/economy/4.png?raw=true",
+        "https://github.com/wooahtech/static_files/blob/main/economy/5.png?raw=true",
+        "https://github.com/wooahtech/static_files/blob/main/economy/6.png?raw=true",
+        "https://github.com/wooahtech/static_files/blob/main/economy/7.png?raw=true",
+        "https://github.com/wooahtech/static_files/blob/main/economy/8.png?raw=true",
+        "https://github.com/wooahtech/static_files/blob/main/economy/9.png?raw=true",
+        "https://github.com/wooahtech/static_files/blob/main/economy/10.png?raw=true",
+        "https://github.com/wooahtech/static_files/blob/main/economy/11.png?raw=true",
+        "https://github.com/wooahtech/static_files/blob/main/economy/12.png?raw=true",
+        "https://github.com/wooahtech/static_files/blob/main/economy/13.png?raw=true",
+        "https://github.com/wooahtech/static_files/blob/main/economy/14.png?raw=true"
+      ]
+    }
+  }
+}
