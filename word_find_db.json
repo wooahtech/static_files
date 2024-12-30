@@ -79,7 +79,72 @@
           "url": "https://github.com/wooahtech/static_files/blob/main/economy/14.png?raw=true"
         }
       ]
-    }
+    },
+    "new": {
+            "name": "신조어",
+            "img_url_list": [
+                {
+                    "name": "갑분싸",
+                    "description": "'갑자기 분위기가 싸해짐'을 나타내며, 예상치 못한 상황으로 분위기가 어색해질 때 사용합니다.",
+                    "url": "https://github.com/wooahtech/static_files/blob/main/new/0.png?raw=true\""
+                },
+                {
+                    "name": "킹받네",
+                    "description": "매우 짜증 나거나 화가 나는 상황에서 사용하는 표현으로, '킹(King)'과 '받다'의 합성어입니다.",
+                    "url": "https://github.com/wooahtech/static_files/blob/main/new/1.png?raw=true\""
+                },
+                {
+                    "name": "내돈내산",
+                    "description": "'내 돈 주고 내가 산' 제품을 뜻하며, 직접 구매한 물건에 대한 리뷰나 자랑을 할 때 사용합니다.",
+                    "url": "https://github.com/wooahtech/static_files/blob/main/new/2.png?raw=true\""
+                },
+                {
+                    "name": "나심비",
+                    "description": "'나의 심리적 만족을 위해 돈을 쓰는 것'을 의미하며, 가격 대비 심리적 만족도를 중시하는 소비를 나타냅니다.",
+                    "url": "https://github.com/wooahtech/static_files/blob/main/new/3.png?raw=true\""
+                },
+                {
+                    "name": "점메추",
+                    "description": "'점심 메뉴 추천'의 줄임말로, 점심 식사 메뉴를 추천받을 때 사용합니다.",
+                    "url": "https://github.com/wooahtech/static_files/blob/main/new/4.png?raw=true\""
+                },
+                {
+                    "name": "만반잘부",
+                    "description": "'만나서 반가워, 잘 부탁해'의 줄임말로, 처음 만난 사람에게 인사할 때 사용합니다.",
+                    "url": "https://github.com/wooahtech/static_files/blob/main/new/5.png?raw=true\""
+                },
+                {
+                    "name": "알잘딱깔센",
+                    "description": "'알아서 잘, 딱 깔끔하고 센스 있게'의 줄임말로, 일을 센스 있게 처리하라는 의미입니다.",
+                    "url": "https://github.com/wooahtech/static_files/blob/main/new/6.png?raw=true\""
+                },
+                {
+                    "name": "사바사",
+                    "description": "'사람 by 사람'의 줄임말로, 사람마다 다름을 의미합니다.",
+                    "url": "https://github.com/wooahtech/static_files/blob/main/new/7.png?raw=true\""
+                },
+                {
+                    "name": "혼코노",
+                    "description": "'혼자 코인 노래방 가기'를 뜻하며, 혼자서 코인 노래방을 즐기는 행위를 말합니다.",
+                    "url": "https://github.com/wooahtech/static_files/blob/main/new/8.png?raw=true\""
+                },
+                {
+                    "name": "월급루팡",
+                    "description": "회사에서 일하지 않고 월급만 받아가는 사람을 비유하는 표현입니다.",
+                    "url": "https://github.com/wooahtech/static_files/blob/main/new/9.png?raw=true\""
+                },
+                {
+                    "name": "멍청비용",
+                    "description": "실수로 발생한 불필요한 지출을 의미하며, 주의 부족으로 인한 비용을 나타냅니다.",
+                    "url": "https://github.com/wooahtech/static_files/blob/main/new/10.png?raw=true\""
+                },
+                {
+                    "name": "머선129",
+                    "description": "'무슨 일이야?'를 부산 사투리로 발음한 표현으로, 놀라운 상황에서 사용합니다.",
+                    "url": "https://github.com/wooahtech/static_files/blob/main/new/11.png?raw=true\""
+                }
+            ]
+        }
   },
   "last_updated": "2024-12-27 21:25:00"
 }
