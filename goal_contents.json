@@ -18,5 +18,227 @@
     {"message": "성공은 돈이 아니라, 행복과 목적에서 옵니다", "name": "토니 셰이"},
     {"message": "속도가 아니라, 올바른 방향으로 가는 것이 중요합니다", "name": "레이 크록"},
     {"message": "당신이 두려워하는 일에 도전하세요. 그것이 성장하는 길입니다", "name": "샤릴 샌드버그"}
+  ],
+  "en": [
+    {
+      "message": "Failure is the mother of success.",
+      "name": "Thomas Edison"
+    },
+    {
+      "message": "Genius is 1% inspiration and 99% perspiration.",
+      "name": "Thomas Edison"
+    },
+    {
+      "message": "Only those who never give up will win.",
+      "name": "Nelson Mandela"
+    },
+    {
+      "message": "The process of moving toward a goal is success itself.",
+      "name": "Carl Sagan"
+    },
+    {
+      "message": "Do not strive for perfection. Perfection is the enemy of success.",
+      "name": "Winston Churchill"
+    },
+    {
+      "message": "A positive person also has a positive impact on those around them.",
+      "name": "Dale Carnegie"
+    },
+    {
+      "message": "A positive mindset is the beginning of success.",
+      "name": "Oprah Winfrey"
+    },
+    {
+      "message": "If something is important enough, you should try, even if the odds are against you.",
+      "name": "Elon Musk"
+    },
+    {
+      "message": "Your time is limited, so don’t waste it living someone else’s life.",
+      "name": "Steve Jobs"
+    },
+    {
+      "message": "Always dream big. Small dreams do not move people.",
+      "name": "Larry Page"
+    },
+    {
+      "message": "The most important thing we do is to improve people's lives.",
+      "name": "Sergey Brin"
+    },
+    {
+      "message": "If you are not embarrassed by the first version of your product, you’ve launched too late.",
+      "name": "Reid Hoffman"
+    },
+    {
+      "message": "Risk comes from not knowing what you're doing.",
+      "name": "Warren Buffett"
+    },
+    {
+      "message": "Business is simple. If you make people happy, you will succeed.",
+      "name": "Richard Branson"
+    },
+    {
+      "message": "Don’t wait for perfection. Start now.",
+      "name": "Mark Zuckerberg"
+    },
+    {
+      "message": "Success comes not from money, but from happiness and purpose.",
+      "name": "Tony Hsieh"
+    },
+    {
+      "message": "It’s not about speed, but about heading in the right direction.",
+      "name": "Ray Kroc"
+    },
+    {
+      "message": "Challenge what you fear. That’s the path to growth.",
+      "name": "Sheryl Sandberg"
+    }
+  ],
+  "ja": [
+    {
+      "message": "失敗は成功の母である。",
+      "name": "トーマス・エジソン"
+    },
+    {
+      "message": "天才とは1%のひらめきと99%の努力である。",
+      "name": "トーマス・エジソン"
+    },
+    {
+      "message": "諦めない者だけが勝利する。",
+      "name": "ネルソン・マンデラ"
+    },
+    {
+      "message": "目標に向かって進む過程そのものが成功である。",
+      "name": "カール・セーガン"
+    },
+    {
+      "message": "完璧を求めるな。完璧は成功の敵だ。",
+      "name": "ウィンストン・チャーチル"
+    },
+    {
+      "message": "前向きな人は周囲の人々にも前向きな影響を与える。",
+      "name": "デール・カーネギー"
+    },
+    {
+      "message": "前向きな心は成功の始まりである。",
+      "name": "オプラ・ウィンフリー"
+    },
+    {
+      "message": "何かが十分に重要であるならば、困難があっても挑戦すべきだ。",
+      "name": "イーロン・マスク"
+    },
+    {
+      "message": "あなたの時間は限られている。他人の人生を生きることで時間を無駄にしないでください。",
+      "name": "スティーブ・ジョブズ"
+    },
+    {
+      "message": "常に大きな夢を持て。小さな夢は人々を動かさない。",
+      "name": "ラリー・ペイジ"
+    },
+    {
+      "message": "私たちがすることの中で最も重要なのは、人々の生活をより良くすることである。",
+      "name": "セルゲイ・ブリン"
+    },
+    {
+      "message": "もし最初の製品を発表する時に恥ずかしくないなら、それは遅すぎたということだ。",
+      "name": "リード・ホフマン"
+    },
+    {
+      "message": "リスクは自分が何をしているのか分からないときに生じる。",
+      "name": "ウォーレン・バフェット"
+    },
+    {
+      "message": "ビジネスは一言で言えば簡単だ。人々を幸せにすれば成功する。",
+      "name": "リチャード・ブランソン"
+    },
+    {
+      "message": "完璧を待つな。今すぐ始めよう。",
+      "name": "マーク・ザッカーバーグ"
+    },
+    {
+      "message": "成功はお金ではなく、幸福と目的から生まれる。",
+      "name": "トニー・シェイ"
+    },
+    {
+      "message": "重要なのはスピードではなく、正しい方向に進むことである。",
+      "name": "レイ・クロック"
+    },
+    {
+      "message": "あなたが恐れていることに挑戦しよう。それが成長の道である。",
+      "name": "シェリル・サンドバーグ"
+    }
+  ],
+  "zh": [
+    {
+      "message": "失败是成功之母。",
+      "name": "托马斯·爱迪生"
+    },
+    {
+      "message": "天才是1%的灵感和99%的汗水。",
+      "name": "托马斯·爱迪生"
+    },
+    {
+      "message": "只有不放弃的人才能胜利。",
+      "name": "纳尔逊·曼德拉"
+    },
+    {
+      "message": "朝着目标前进的过程本身就是成功。",
+      "name": "卡尔·萨根"
+    },
+    {
+      "message": "不要追求完美，完美是成功的敌人。",
+      "name": "温斯顿·丘吉尔"
+    },
+    {
+      "message": "积极的人也会对周围的人产生积极的影响。",
+      "name": "戴尔·卡耐基"
+    },
+    {
+      "message": "积极的心态是成功的开始。",
+      "name": "奥普拉·温弗瑞"
+    },
+    {
+      "message": "如果某件事足够重要，即使困难重重，你也应该去尝试。",
+      "name": "埃隆·马斯克"
+    },
+    {
+      "message": "你的时间有限，所以不要浪费时间活在别人的人生里。",
+      "name": "史蒂夫·乔布斯"
+    },
+    {
+      "message": "永远要有远大的梦想，小梦想无法激励人们。",
+      "name": "拉里·佩奇"
+    },
+    {
+      "message": "我们所做的最重要的事情是让人们的生活变得更好。",
+      "name": "谢尔盖·布林"
+    },
+    {
+      "message": "如果你推出第一款产品时不觉得羞愧，那就说明你推出得太晚了。",
+      "name": "里德·霍夫曼"
+    },
+    {
+      "message": "风险来自于你不知道自己在做什么。",
+      "name": "沃伦·巴菲特"
+    },
+    {
+      "message": "商业其实很简单，让人们感到幸福，你就会成功。",
+      "name": "理查德·布兰森"
+    },
+    {
+      "message": "不要等到完美才开始，立即行动吧。",
+      "name": "马克·扎克伯格"
+    },
+    {
+      "message": "成功不是来自金钱，而是来自幸福和目标。",
+      "name": "托尼·谢伊"
+    },
+    {
+      "message": "重要的不是速度，而是走在正确的方向上。",
+      "name": "雷·克罗克"
+    },
+    {
+      "message": "挑战你的恐惧，那是成长的道路。",
+      "name": "雪莉·桑德伯格"
+    }
   ]
 }
