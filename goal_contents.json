@@ -17,7 +17,20 @@
     {"message": "완벽할 때까지 기다리지 말고, 지금 바로 시작하세요", "name": "마크 저커버그"},
     {"message": "성공은 돈이 아니라, 행복과 목적에서 옵니다", "name": "토니 셰이"},
     {"message": "속도가 아니라, 올바른 방향으로 가는 것이 중요합니다", "name": "레이 크록"},
-    {"message": "당신이 두려워하는 일에 도전하세요. 그것이 성장하는 길입니다", "name": "샤릴 샌드버그"}
+    {"message": "당신이 두려워하는 일에 도전하세요. 그것이 성장하는 길입니다", "name": "샤릴 샌드버그"},
+    {"message": "상상력은 지식보다 더 중요하다.", "name": "앨버트 아인슈타인"},
+    {
+        "message": "사람들은 당신이 파는 제품을 사는 것이 아니라, 그것을 하는 이유를 보고 산다.",
+        "name": "사이먼 시넥"
+    },
+    {
+        "message": "큰 문제를 해결하는 것이 작은 문제를 해결하는 것보다 더 쉽다.",
+        "name": "세르게이 브린"
+    },
+    {
+        "message": "역경과 변화의 시기에, 우리는 진정으로 우리가 누구이며 무엇으로 이루어져 있는지를 발견한다.",
+        "name": "하워드 슐츠"
+    }
   ],
   "en": [
     {
@@ -91,6 +104,23 @@
     {
       "message": "Challenge what you fear. That’s the path to growth.",
       "name": "Sheryl Sandberg"
+    },
+    {"message": "Imagination is more important than knowledge.", "name": "Albert Einstein"},
+    {
+        "message": "The delicate balance of mentoring someone is not creating them in your own image, but giving them the opportunity to create themselves.",
+        "name": "Steven Spielberg"
+    },
+    {
+        "message": "People don't buy what you do; they buy why you do it.",
+        "name": "Simon Sinek"
+    },
+    {
+        "message": "Solving big problems is easier than solving little problems.",
+        "name": "Sergey Brin"
+    },
+    {
+        "message": "In times of adversity and change, we really discover who we are and what we're made of.",
+        "name": "Howard Schultz"
     }
   ],
   "ja": [
